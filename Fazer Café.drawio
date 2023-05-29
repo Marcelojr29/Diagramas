@@ -1,0 +1,329 @@
+<mxfile host="app.diagrams.net" modified="2023-05-29T11:25:20.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="IkFyJq3NXW8bz1kr_aHT" version="21.3.2" type="github">
+  <diagram name="Página-1" id="BQXx6xhnnzK2zehbGeg2">
+    <mxGraphModel dx="987" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="-HswwGnS-ncD2EpwxZz8-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="243" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-2" target="-HswwGnS-ncD2EpwxZz8-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-2" value="Abrir a porta do armário" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-4" target="-HswwGnS-ncD2EpwxZz8-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-4" value="Verificar se existe pó de café o suficiente para fazer o café" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-7" target="-HswwGnS-ncD2EpwxZz8-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-7" target="-HswwGnS-ncD2EpwxZz8-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-7" value="Tem pó de café?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-9" target="-HswwGnS-ncD2EpwxZz8-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="650" />
+              <mxPoint x="350" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-9" value="Ir ao mercado comprar pó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="612" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-11" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="577" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-12" target="-HswwGnS-ncD2EpwxZz8-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-12" value="Acender o fogo do fogão" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="518" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-14" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="464" y="520" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-15" target="-HswwGnS-ncD2EpwxZz8-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-15" value="Pegar uma panela&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-19" target="-HswwGnS-ncD2EpwxZz8-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-19" target="-HswwGnS-ncD2EpwxZz8-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-19" value="A panela está limpa?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="270" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-22" target="-HswwGnS-ncD2EpwxZz8-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="270" />
+              <mxPoint x="530" y="270" />
+              <mxPoint x="530" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-22" value="Lavar a panela" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-24" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="626" y="293" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-27" target="-HswwGnS-ncD2EpwxZz8-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-27" value="Abrir a torneira da pia e coletar 1 litro de água na panela" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-29" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="583" y="247" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-36" target="-HswwGnS-ncD2EpwxZz8-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-36" value="Por a panela no fogo ligado e aguardar 10 minutos até a água ferver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="687" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-38" target="-HswwGnS-ncD2EpwxZz8-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-38" value="Pegar uma garrafa térmica" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="842" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-40" target="-HswwGnS-ncD2EpwxZz8-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-40" target="-HswwGnS-ncD2EpwxZz8-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-40" value="A garrafa está limpa?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="862" y="285" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-42" target="-HswwGnS-ncD2EpwxZz8-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="270" />
+              <mxPoint x="850" y="270" />
+              <mxPoint x="850" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-42" value="Lavar a garrafa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="981" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-44" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="933" y="301" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-47" target="-HswwGnS-ncD2EpwxZz8-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-47" value="Pegar o coador" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="842" y="394" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-49" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="894" y="362" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-52" target="-HswwGnS-ncD2EpwxZz8-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-52" target="-HswwGnS-ncD2EpwxZz8-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-52" value="O coador está limpo?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="862" y="481" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-54" target="-HswwGnS-ncD2EpwxZz8-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="470" />
+              <mxPoint x="850" y="470" />
+              <mxPoint x="850" y="521" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-54" value="Lavar o coador" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="992" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-57" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="938" y="498" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-58" target="-HswwGnS-ncD2EpwxZz8-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-58" value="Posicionar o coador em cima da garrafa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="842" y="591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-60" target="-HswwGnS-ncD2EpwxZz8-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-60" value="Pegar o açúcar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1023" y="591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-62" target="-HswwGnS-ncD2EpwxZz8-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-62" target="-HswwGnS-ncD2EpwxZz8-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-62" value="Tem açúcar?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1201" y="581" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-64" target="-HswwGnS-ncD2EpwxZz8-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="680" />
+              <mxPoint x="1241" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-64" value="Desligar a boca do fogão e ir até ao mercado comprar açúcar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1326" y="591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-67" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-68" target="-HswwGnS-ncD2EpwxZz8-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-68" target="-HswwGnS-ncD2EpwxZz8-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-68" value="Pegar uma colher limpar e adicionar açúcar dentro da água fervente" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="479" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-70" target="-HswwGnS-ncD2EpwxZz8-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-70" target="-HswwGnS-ncD2EpwxZz8-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-70" value="Adicionar colheres de café e misturar e aguardar mais 5 minutos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-72" target="-HswwGnS-ncD2EpwxZz8-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-72" value="Desliga a boca do fogão e levar a panela até a garrafa térmica" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="329" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-74" target="-HswwGnS-ncD2EpwxZz8-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-74" value="Despejar o café no coador e coador posicionado para dentro da garrafa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-76" target="-HswwGnS-ncD2EpwxZz8-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-76" value="Lavar a panela de café" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-80" target="-HswwGnS-ncD2EpwxZz8-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-80" value="Separar um copo ou uma xícara para por o café dentro" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-82" target="-HswwGnS-ncD2EpwxZz8-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-82" target="-HswwGnS-ncD2EpwxZz8-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-82" value="Copo ou xícara está limpa?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1486" y="166" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-HswwGnS-ncD2EpwxZz8-84" target="-HswwGnS-ncD2EpwxZz8-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="146" />
+              <mxPoint x="1526" y="146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-84" value="Lavar o copo ou a xícara" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1608" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-88" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="897" y="556" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-89" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1235" y="562" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-90" target="-HswwGnS-ncD2EpwxZz8-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-90" value="Despejar a quantidade necessária de café para tomar dentro do copo ou da xícara" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1466" y="280" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-92" target="-HswwGnS-ncD2EpwxZz8-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-92" value="Lavar a panela de café suja" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1466" y="376" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-94" value="Repetir 3x" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="1319" y="479" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-97" value="Repetir 5x" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="396" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-103" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1556" y="183" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-107" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1519" y="241" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-110" target="-HswwGnS-ncD2EpwxZz8-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1610" y="506" />
+              <mxPoint x="1610" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-110" target="-HswwGnS-ncD2EpwxZz8-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-110" value="Satisfeito com a quantidade de café?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1486" y="466" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-114" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1564" y="482" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-HswwGnS-ncD2EpwxZz8-115" target="-HswwGnS-ncD2EpwxZz8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-115" value="Início" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="156" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-117" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1466" y="585" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-HswwGnS-ncD2EpwxZz8-119" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1519" y="542" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
